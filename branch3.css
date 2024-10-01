@@ -1,0 +1,137 @@
+.box25 {
+    position: absolute;
+    top: 900px;
+    left: 1900px;
+    border-radius: 10px;
+    padding: 20px;
+    width: 15%;
+    height: 30px;
+    background-color: black;
+    text-align:center;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+}
+
+.box26 {
+    position: absolute;
+    top: 1000px;
+    left: 1800px;
+    padding: 20px;
+    width: 10%;
+    height: 30px;
+    background-color: white;
+    text-align:center;
+    border-style: solid;
+    border-color: black;
+}
+
+.box27 {
+    position: absolute;
+    top: 1000px;
+    left: 2125px;
+    padding: 20px;
+    width: 10%;
+    height: 30px;
+    background-color: white;
+    text-align:center;
+    border-style: solid;
+    border-color: black;
+}
+
+.box28 {
+    position: absolute;
+    top: 1100px;
+    left: 1800px;
+    padding: 20px;
+    width: 10%;
+    height: 30px;
+    background-color: white;
+    text-align:center;
+    border-style: solid;
+    border-color: black;
+}
+
+.box29 {
+    position: absolute;
+    top: 1100px;
+    left: 2125px;
+    padding: 20px;
+    width: 10%;
+    height: 30px;
+    background-color: white;
+    text-align:center;
+    border-style: solid;
+    border-color: black;
+}
+
+.box30 {
+    position: absolute;
+    top: 1250px;
+    left: 20px;
+    padding: 20px;
+    width: 25%;
+    height: 200px;
+    background-color: rgb(37, 104, 167);
+    text-align:center;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    line-height: 200px;
+}
+
+.box31 {
+    position: absolute;
+    top: 1250px;
+    left: 1000px;
+    border-radius: 20px;
+    padding: 20px;
+    width: 15%;
+    height: 20px;
+    background-color: rgb(37, 104, 167);
+    text-align:center;
+    border-style: solid;
+    border-color: black;
+}
+
+.box32 {
+    position: absolute;
+    top: 1350px;
+    left: 1000px;
+    border-radius: 20px;
+    padding: 20px;
+    width: 15%;
+    height: 20px;
+    background-color: rgb(37, 104, 167);
+    text-align:center;
+    border-style: solid;
+    border-color: black;
+}
+
+.box33 {
+    position: absolute;
+    top: 1450px;
+    left: 1000px;
+    border-radius: 20px;
+    padding: 20px;
+    width: 15%;
+    height: 20px;
+    background-color: rgb(37, 104, 167);
+    text-align:center;
+    border-style: solid;
+    border-color: black;
+}
+
+.box34 {
+    position: absolute;
+    top: 1250px;
+    left: 1775px;
+    padding: 20px;
+    width: 25%;
+    height: 200px;
+    background-color: rgb(37, 104, 167);
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    line-height: 200px;
+}

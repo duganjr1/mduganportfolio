@@ -1,0 +1,35 @@
+body {
+    background-color: #8c8c8c
+  }
+
+p{
+    font-family: "Oswald";
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;  
+}
+
+.colorLayout{
+    border-radius: 50px;
+    padding: 20px;
+    width: 50%;
+    height: 350px;
+    background-color: #5c62b6;
+    text-align:center;
+    box-shadow: inset 0 0 40px #000;
+}
+
+.textColorOverlay {
+    color: black;
+}
+
+.blackBoxColoration {
+    color: white;
+}
+
+.bigBox {
+    padding: 20px;
+    width: 100%;
+    height: 600px;
+    box-shadow: inset 0 0 40px #000;
+}
