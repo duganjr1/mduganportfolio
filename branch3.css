@@ -1,25 +1,11 @@
-.box25 {
-    position: absolute;
-    top: 900px;
-    left: 1900px;
-    border-radius: 10px;
-    padding: 20px;
-    width: 15%;
-    height: 30px;
-    background-color: black;
-    text-align:center;
-    border-style: solid;
-    border-color: rgb(255, 255, 255);
-}
-
 .box26 {
     position: absolute;
-    top: 1000px;
-    left: 1800px;
+    top: 1150px;
+    left: 1715px;
     padding: 20px;
-    width: 10%;
-    height: 30px;
-    background-color: white;
+    width: 12%;
+    height: 200px;
+    background-color: #FFE06D;
     text-align:center;
     border-style: solid;
     border-color: black;
@@ -27,12 +13,12 @@
 
 .box27 {
     position: absolute;
-    top: 1000px;
-    left: 2125px;
+    top: 1150px;
+    left: 2135px;
     padding: 20px;
-    width: 10%;
-    height: 30px;
-    background-color: white;
+    width: 12%;
+    height: 200px;
+    background-color: #FFE06D;
     text-align:center;
     border-style: solid;
     border-color: black;
@@ -40,12 +26,12 @@
 
 .box28 {
     position: absolute;
-    top: 1100px;
-    left: 1800px;
+    top: 1450px;
+    left: 1715px;
     padding: 20px;
-    width: 10%;
-    height: 30px;
-    background-color: white;
+    width: 12%;
+    height: 200px;
+    background-color: #FFE06D;
     text-align:center;
     border-style: solid;
     border-color: black;
@@ -53,12 +39,12 @@
 
 .box29 {
     position: absolute;
-    top: 1100px;
-    left: 2125px;
+    top: 1450px;
+    left: 2135px;
     padding: 20px;
-    width: 10%;
-    height: 30px;
-    background-color: white;
+    width: 12%;
+    height: 200px;
+    background-color: #FFE06D;
     text-align:center;
     border-style: solid;
     border-color: black;
@@ -66,72 +52,85 @@
 
 .box30 {
     position: absolute;
-    top: 1250px;
+    top: 1750px;
     left: 20px;
     padding: 20px;
     width: 25%;
     height: 200px;
-    background-color: rgb(37, 104, 167);
-    text-align:center;
+    background-color: #FCFF92;
     border-style: solid;
     border-color: black;
     border-radius: 20px;
-    line-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .box31 {
     position: absolute;
-    top: 1250px;
-    left: 1000px;
+    top: 1750px;
+    left: 1020px;
     border-radius: 20px;
     padding: 20px;
     width: 15%;
-    height: 20px;
-    background-color: rgb(37, 104, 167);
-    text-align:center;
+    height: 30px;
+    background-color: #FCFF92;
     border-style: solid;
     border-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .box32 {
     position: absolute;
-    top: 1350px;
-    left: 1000px;
+    top: 1850px;
+    left: 1020px;
     border-radius: 20px;
     padding: 20px;
     width: 15%;
-    height: 20px;
-    background-color: rgb(37, 104, 167);
-    text-align:center;
+    height: 30px;
+    background-color: #FCFF92;
     border-style: solid;
     border-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .box33 {
     position: absolute;
-    top: 1450px;
-    left: 1000px;
+    top: 1950px;
+    left: 1020px;
     border-radius: 20px;
     padding: 20px;
     width: 15%;
-    height: 20px;
-    background-color: rgb(37, 104, 167);
-    text-align:center;
+    height: 30px;
+    background-color: #FCFF92;
     border-style: solid;
     border-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .box34 {
     position: absolute;
-    top: 1250px;
-    left: 1775px;
+    top: 1750px;
+    left: 1835px;
     padding: 20px;
     width: 25%;
     height: 200px;
-    background-color: rgb(37, 104, 167);
-    text-align: center;
+    background-color: #FCFF92;
     border-style: solid;
     border-color: black;
     border-radius: 10px;
-    line-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
